@@ -6,13 +6,16 @@
 </h1>
 
 <p>
-I'm a Front-End Developer with a strong passion for building clean, responsive, and user-friendly web interfaces.
+  I'm a Front-End Developer with a strong passion for building clean, responsive, and user-friendly web interfaces.
 </p>
 
-- 👨‍💻 I’m currently working with front-end technologies like JavaScript, TypeScript, and React.  
-- 📚 I’m learning full-stack development and enhancing my React skills.  
-- 🎯 Future Goals: Master modern web technologies and build awesome UI/UX experiences.  
+👨‍💻 Currently working with front-end technologies like JavaScript, TypeScript, and React.
 
+📚 Learning full-stack development and enhancing my React skills.
+
+🎯 Future Goals: To master modern web technologies and create outstanding UI/UX experiences.
+
+📫 Email: shehabali241@gmail.com
 ---
 
 ### 📫 Social Links
