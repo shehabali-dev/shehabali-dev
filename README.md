@@ -92,10 +92,21 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 
 
 
+
+
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehabali&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehabali-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<a href="https://komarev.com/ghpvc/?username=shehabali&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=shehabali&style=for-the-badge" alt="Profile Views" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehabali-dev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehabali-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
