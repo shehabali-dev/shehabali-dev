@@ -18,15 +18,17 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 ### 📫 Social Links
 
 <p>
-<a href="https://www.facebook.com/profile.php?id=61550362642349/YOUR_FACEBOOK"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/shehabali241/">
-  <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.youtube.com/@shehabAli-v2j/@YOUR_YOUTUBE"><img
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.facebook.com/profile.php?id=61550362642349">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/shehabali241/">
+    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@shehabAli-v2j">
+    <img src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
+
 
 ---
 
