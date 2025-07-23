@@ -50,7 +50,7 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
