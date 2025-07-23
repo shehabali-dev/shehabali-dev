@@ -30,7 +30,7 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 </p>
 
 
----
+---    
 
 
 ### 👨‍💻 Programming Languages
