@@ -100,13 +100,9 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
   <img src="https://github-readme-stats.vercel.app/api?username=shehabali-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehabali-dev&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehabali-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+
 
 ---
 
