@@ -32,6 +32,18 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 
 ---
 
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+---
+
+
 ### 🛠 &nbsp;Technologies I Work With
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
