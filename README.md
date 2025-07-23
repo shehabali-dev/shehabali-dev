@@ -44,6 +44,14 @@ I'm a Front-End Developer with a strong passion for building clean, responsive, 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
 ---
+### 🧰 Software Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</p>
+---
 
 ### 📊 GitHub Stats
 
