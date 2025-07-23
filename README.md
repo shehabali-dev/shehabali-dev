@@ -10,7 +10,9 @@
 </p>
 
 👨‍💻 I have a background in graphic design and performance optimization, and I'm proficient in Front-End Development using technologies like HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, and React.js
+
 🎓 I graduated from Tiba Academy with a degree in Computer Science.
+
 📚 Learning full-stack development and enhancing my React skills.
 
 🎯 Future Goals: To master modern web technologies and create outstanding UI/UX experiences.
