@@ -9,8 +9,8 @@
   I'm a Front-End Developer with a strong passion for building clean, responsive, and user-friendly web interfaces.
 </p>
 
-👨‍💻 Currently working with front-end technologies like JavaScript, TypeScript, and React.
-
+👨‍💻 I have a background in graphic design and performance optimization, and I'm proficient in Front-End Development using technologies like HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, and React.js
+🎓 I graduated from Tiba Academy with a degree in Computer Science.
 📚 Learning full-stack development and enhancing my React skills.
 
 🎯 Future Goals: To master modern web technologies and create outstanding UI/UX experiences.
